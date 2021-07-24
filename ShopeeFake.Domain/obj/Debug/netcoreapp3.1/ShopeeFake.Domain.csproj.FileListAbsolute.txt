@@ -1,0 +1,9 @@
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\bin\Debug\netcoreapp3.1\ShopeeFake.Domain.deps.json
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\bin\Debug\netcoreapp3.1\ShopeeFake.Domain.dll
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\bin\Debug\netcoreapp3.1\ShopeeFake.Domain.pdb
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\obj\Debug\netcoreapp3.1\ShopeeFake.Domain.AssemblyInfoInputs.cache
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\obj\Debug\netcoreapp3.1\ShopeeFake.Domain.AssemblyInfo.cs
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\obj\Debug\netcoreapp3.1\ShopeeFake.Domain.csproj.CoreCompileInputs.cache
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\obj\Debug\netcoreapp3.1\ShopeeFake.Domain.dll
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\obj\Debug\netcoreapp3.1\ShopeeFake.Domain.pdb
+D:\test lại\ShopeeFake\ShopeeFake\ShopeeFake.Domain\obj\Debug\netcoreapp3.1\ShopeeFake.Domain.csprojAssemblyReference.cache
